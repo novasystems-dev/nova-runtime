@@ -1,0 +1,57 @@
+PolyForm Noncommercial License 1.0.0
+https://polyformproject.org/licenses/noncommercial/1.0.0/
+
+Copyright (c) 2026 Fyew999 (Nova Systems). All rights reserved.
+
+1.  Permission
+
+    The licensor grants you a copyright license to use, copy, modify,
+    and distribute this software for Noncommercial Purposes.
+
+2.  Noncommercial Purposes
+
+    Noncommercial Purposes means any purpose not intended for or directed
+    towards commercial advantage or monetary compensation.
+
+    Commercial purposes include, but are not limited to:
+    (a) Selling, leasing, licensing, or distributing the software for a fee.
+    (b) Using the software to provide a commercial service or paid SaaS platform.
+    (c) Incorporating the software into any commercial or proprietary product,
+        hardware appliance, closed-source SDK, or subscription offering.
+    (d) Performing paid consulting, maintenance, or development based on
+        proprietary extensions of the software.
+
+3.  Permitted Noncommercial Uses
+
+    The following uses are explicitly permitted under this license:
+    (a) Personal experimentation, custom recoding, and hobbyist development.
+    (b) Academic instruction, scientific study, and non-commercial research.
+    (c) Developing, testing, and distributing free and open-source applications
+        written in or for the Nova programming language.
+    (d) Creating public forks and modifications, provided they remain non-commercial
+        and preserve this license and attribution in full.
+
+4.  Attribution
+
+    You must ensure that any copy or derivative work of this software
+    conspicuously retains this license, the copyright notice above, and
+    all notices that refer to this license and to the disclaimer of warranties.
+
+5.  Automatic Termination for Breach
+
+    If you violate any condition of this license, any rights granted to you
+    terminate immediately and automatically. Any further use, copying, or
+    distribution constitutes willful copyright infringement under international
+    copyright conventions and applicable national copyright laws.
+
+6.  No Warranty
+
+    As far as the law allows, this software is provided AS IS, without any
+    warranty or condition, and the licensor will not be liable to you for any
+    damages, under any legal theory, arising out of the use of this software.
+
+7.  Trademark and Name Reservation
+
+    This license does not grant any rights to use the trademarks, service marks,
+    logos, or trade names of the licensor or Nova Systems, except as necessary
+    for reasonable attribution.

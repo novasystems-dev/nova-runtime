@@ -1,0 +1,14 @@
+name: Runtime CI
+on: [push, pull_request]
+jobs:
+  build:
+    strategy:
+      matrix:
+        os: [ubuntu-latest, macos-latest, windows-latest]
+    runs-on: ${{ matrix.os }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Compile Runtime
+        run: |
+          gcc -O3 -std=c99 -Iinclude -c src/nova_rt.c
+          echo "Runtime compiled cleanly on ${{ matrix.os }}"
